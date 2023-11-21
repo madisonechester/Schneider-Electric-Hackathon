@@ -53,12 +53,12 @@ Our final F1 score was: F1:  0.8090072352366647
 
 We chose a Baseline that was taking the last value as prediction. The F1 score of that is:
 
-F1:  1:  0.9577748468869401
+F1:  0.9577748468869401
 
 In conclusion, our model does not beat the baseline so it is not useful.
 ## Authors and Acknowledgements
 
-Thanks to the NUWE and Scheider Electric teams for hosting this event. WE had a lot of fun even though we could not make the model work :)
+Thanks to the NUWE and Scheider Electric teams for hosting this event. We had a lot of fun even though we could not make the model work :)
 
 - Adriana Álvaro ([@adrianaalvaro](https://github.com/adrianaalvaro))
 - Madison Chester ([@madisonechester](https://github.com/madisonechester))
