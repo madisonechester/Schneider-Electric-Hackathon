@@ -1,4 +1,4 @@
-# SE-Europe-Data_Challenge
+# SE-Europe-Data-Challenge
 ## Description
 This project is dedicated to building a predictive model for determining which of the following countries - Hungary (HU), Italy (IT), Poland (PO), Spain (SP), Germany (DE), Denmark (DK), Sweden (SE), and the Netherlands (NE) - will have the largest green energy surplus in the upcoming hour. This initiative was undertaken as a part of the Schneider Electric Hackathon.
 
